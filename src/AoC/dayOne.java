@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 public class dayOne {
 	
 	public static void main(String[] args) {
-		String filePath = "C:\\Users\\louis\\Documents\\Cegep\\3e session\\Programmation Objet II\\Workspace\\Aoc\\src\\AoC\\puzzle_input_day_one.txt";
+		String filePath = "C:\\Users\\louis\\Documents\\Cegep\\3e session\\Programmation Objet II\\Workspace\\Aoc\\src\\AoC\\inputs\\puzzle_input_day_one.txt";
 		
 		try {
 			var lines = Files.readAllLines(Paths.get(filePath));
