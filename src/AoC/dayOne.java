@@ -1,4 +1,4 @@
-package adventofcode2019;
+package AoC;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;
