@@ -3,7 +3,7 @@ package AoC;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class dayOne {
+public class DayOne {
 	
 	public static void main(String[] args) {
 		String filePath = "C:\\Users\\louis\\Documents\\Cegep\\3e session\\Programmation Objet II\\Workspace\\Aoc\\src\\AoC\\inputs\\puzzle_input_day_one.txt";
